@@ -1,0 +1,61 @@
+
+html{
+    background-color: rgb(1, 6, 59);
+
+}
+ul{
+    color: black;
+display: flex;
+}
+
+.nav{
+    color: black;
+    list-style-type: none;
+    justify-content: center;
+    justify-content: space-around;
+    justify-content: space-evenly;
+
+
+}
+
+li{
+    font-size: 2em;
+    color: black;
+    box-shadow: 5px 5px 5px 5px ;
+
+}
+
+li:hover
+{
+    color: black;
+    background-color: black;
+    box-shadow: 5px 5px 5px 5px ;
+}
+
+div{
+    display: flex;
+flex-wrap: wrap;
+justify-content: center;
+justify-content: space-evenly;
+justify-content: center;
+justify-content: space-around;
+}
+
+img{
+    width: 300px;
+    justify-content: space-evenly;
+    justify-content: space-around;
+    box-shadow: 5px 5px 5px 5px ;
+
+}
+.animal{
+    flex-basis: 10%;
+}
+
+header{
+    color: rgb(0, 204, 255);
+}
+
+footer{
+    color: rgb(0, 204, 255);
+}
